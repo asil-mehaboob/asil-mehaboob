@@ -1,17 +1,17 @@
 {
   "username": "asil-mehaboob",
-  "generated_at": "2026-11-21T14:37:53Z",
+  "generated_at": "2026-11-22T14:32:44Z",
   "range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-22"
   },
-  "total_contributions": 3833,
-  "active_days": 209,
-  "avg_per_active_day": 18.3,
+  "total_contributions": 3701,
+  "active_days": 205,
+  "avg_per_active_day": 18.1,
   "current_streak": {
-    "length": 1,
+    "length": 2,
     "start": "2026-11-21",
-    "end": "2026-11-21"
+    "end": "2026-11-22"
   },
   "longest_streak": {
     "length": 10,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 236
+      "total": 103
     },
     {
       "month": "2025-12",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 220
+      "total": 221
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 60,
-      "level": 2
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 38,
-      "level": 2
-    },
-    {
-      "date": "2025-11-20",
-      "count": 23,
-      "level": 1
-    },
-    {
-      "date": "2025-11-21",
-      "count": 10,
-      "level": 1
-    },
-    {
-      "date": "2025-11-22",
-      "count": 2,
-      "level": 1
-    },
     {
       "date": "2025-11-23",
       "count": 0,
@@ -1930,6 +1895,11 @@
     {
       "date": "2026-11-21",
       "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-11-22",
+      "count": 1,
       "level": 1
     }
   ]
